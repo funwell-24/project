@@ -1,6 +1,6 @@
 # Brew Haven Coffee Shop Website
 
-![Website Preview](https://i.imgur.com/Jf5qN0a.png)
+
 
 A responsive, modern website for a fictional artisan coffee shop.
 
