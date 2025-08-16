@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Menu | Brew Haven</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Brew Haven</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="menu.html" class="active">Menu</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Our Menu</h2>
+        
+        <div class="menu-filters">
+            <button class="filter-btn active" data-filter="all">All</button>
+            <button class="filter-btn" data-filter="coffee">Coffee</button>
+            <button class="filter-btn" data-filter="food">Food</button>
+        </div>
+        
+        <div class="menu-grid">
+            <div class="menu-item coffee">
+                <p class="item-name">Espresso</p>
+                <p class="item-price">$3.50</p>
+                <p class="item-desc">Strong single shot of our house blend</p>
+            </div>
+            <div class="menu-item coffee">
+                <p class="item-name">Cappuccino</p>
+                <p class="item-price">$4.50</p>
+                <p class="item-desc">Espresso with steamed milk foam</p>
+            </div>
+            <div class="menu-item coffee">
+                <p class="item-name">Cold Brew</p>
+                <p class="item-price">$4.00</p>
+                <p class="item-desc">Slow-steeped for 18 hours</p>
+            </div>
+            <div class="menu-item food">
+                <p class="item-name">Croissant</p>
+                <p class="item-price">$3.00</p>
+                <p class="item-desc">Freshly baked butter croissant</p>
+            </div>
+            <div class="menu-item food">
+                <p class="item-name">Avocado Toast</p>
+                <p class="item-price">$7.50</p>
+                <p class="item-desc">Sourdough with smashed avocado</p>
+            </div>
+            <div class="menu-item food">
+                <p class="item-name">Breakfast Sandwich</p>
+                <p class="item-price">$8.00</p>
+                <p class="item-desc">Egg, cheese, and bacon on ciabatta</p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Brew Haven Coffee</p>
+        <div class="social-links">
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-facebook"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
