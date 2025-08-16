@@ -36,7 +36,7 @@ brew-haven-coffee/
 ## 🖥️ Local Setup
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/brew-haven-coffee.git
+   https://github.com/funwell-24/project.git
    ```
 2. Open `index.html` in your browser
 
