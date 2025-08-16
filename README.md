@@ -40,8 +40,4 @@ brew-haven-coffee/
    ```
 2. Open `index.html` in your browser
 
-## 🌐 Deployment
-Deployed using GitHub Pages:
-1. Go to Repository Settings > Pages
-2. Select `main` branch and `/ (root)` folder
-3. Site publishes to `yourusername.github.io/brew-haven-coffee`
+
