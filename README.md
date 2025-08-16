@@ -5,7 +5,7 @@
 A responsive, modern website for a fictional artisan coffee shop.
 
 ## 🚀 Live Demo
-[View deployed site on GitHub Pages](https://yourusername.github.io/brew-haven-coffee/)
+[View deployed site on GitHub Pages](https://funwell-24.github.io/project/)
 
 ## ✨ Features
 - Fully responsive design (mobile, tablet, desktop)
